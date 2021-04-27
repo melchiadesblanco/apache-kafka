@@ -1,4 +1,4 @@
----
+--- Confluent Apache Kafka Tutorial ref: https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.latam_lng.eng_dv.all&utm_term=kafka%20docker%20image&creative=&device=c&placement=&gclid=Cj0KCQjwyZmEBhCpARIsALIzmnI5WaHynS27V5fPtaqdUUmfiOUNu2XMDiwLGovnYIovK8ie9HNTF88aAqddEALw_wcB#download-start-cp-docker
 version: '2'
 services:
   zookeeper:
